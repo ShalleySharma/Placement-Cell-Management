@@ -22,7 +22,7 @@ Jobs: Record job postings and company requirements.
 Applications: Track student applications for job postings.
 Interviews: Schedule and manage interviews for shortlisted candidates.
 
-er diagram
+
 
 
 Technology Stack
